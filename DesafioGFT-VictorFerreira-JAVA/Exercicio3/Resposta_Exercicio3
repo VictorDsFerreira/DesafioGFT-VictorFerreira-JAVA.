@@ -1,0 +1,2 @@
+Gostaria de guardar informações delicadas em um banco de dados, me de dicas de como salvar por exemplo,
+um CPF ou dados bancarios, me recomende também métodos de criptográfia, APIs ou alguma outra solução para evitar que esses dados sejam expostos. Estou utilizando JAVA.
